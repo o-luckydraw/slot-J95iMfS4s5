@@ -1,0 +1,17 @@
+{
+  "siteId": "slot-J95iMfS4s5",
+  "adminEmail": "yoonchanchan1004@gmail.com",
+  "theme": {
+    "fontFamily": "Paperlogy",
+    "boxBgColor": "rgba(255, 255, 255, 0.85)",
+    "boxPadding": "2rem",
+    "boxRadius": "24px",
+    "buttonBgColor": "#f198b5",
+    "buttonTextColor": "#ffffff",
+    "buttonRadius": "9999px",
+    "highBgColor": "#5eb3e6",
+    "highTextColor": "#ffffff",
+    "adminLinkColor": "rgba(255, 255, 255, 0.3)",
+    "bgImageUrl": "./bg.png"
+  }
+}
