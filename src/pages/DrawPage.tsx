@@ -110,7 +110,7 @@ const DrawPage: React.FC = () => {
         />
       )}
 
-      <div className="w-full bg-box rounded-box p-box shadow-sm transition-all duration-300 flex flex-col items-center border border-gray-100 mt-[160px]">
+      <div className="w-full bg-box rounded-box p-box shadow-sm transition-all duration-300 flex flex-col items-center border border-gray-100 mt-[240px]">
         {isTestMode && !isUnavailable && (
           <div className="bg-yellow-50 text-yellow-700 text-xs font-medium px-4 py-3 rounded-lg mb-6 w-full text-center border border-yellow-200">
             현재 리허설 모드입니다. 추첨해도 실제 재고는 차감되지 않습니다.
